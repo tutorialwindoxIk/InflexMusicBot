@@ -25,7 +25,7 @@ async def shell_cmd(cmd):
         else:
             return errorz.decode("utf-8")
     return out.decode("utf-8")
-
+InflexMusic/assets/Cookies.txt
 
 class YouTubeAPI:
     def __init__(self):
